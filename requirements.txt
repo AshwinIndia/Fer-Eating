@@ -1,0 +1,14 @@
+opencv-python
+numpy
+matplotlib
+plotly
+scikit-learn
+scipy
+seaborn
+pandas
+ipython
+pillow
+imbalanced-learn
+torch
+torchviz
+nbformat
